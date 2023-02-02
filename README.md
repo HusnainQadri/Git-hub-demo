@@ -3,4 +3,4 @@ Learning Git &amp; Github
 
 ## Husnain Rasul Qadri
 
-Learing Git/Github
+Learning Git/Github
