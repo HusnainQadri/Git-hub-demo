@@ -1,4 +1,9 @@
+-- SSH KEY --
 1. Gernerate SSH Key locally: $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 2. Add device to your guthub with .pub key (User/.ssh/[2 files one is .pub]):
 3. Configure your private key now:  1: eval "$(ssh-agent -s)"
                                     2: ssh-add ~/.ssh/id_ed25519
+
+
+-- Git Remote --
+1. git remote add origin "link to the repo"
